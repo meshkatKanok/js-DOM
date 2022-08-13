@@ -1,0 +1,16 @@
+.t-h{
+    color: black;
+}
+.t-p{
+    color: blue;
+}
+.my-pera{
+    color:red;
+}
+.check{
+    border: 2px solid red;
+    margin: 0 auto;
+    width: 50%;
+    background:yellow;
+    padding: 10px;
+}
